@@ -3,7 +3,7 @@
 -- License: https://github.com/striatp/RobloxAssets/blob/main/LICENSE.md
 
 -- Daylight System for Roblox made by Striatp
--- This script provides a customizable day-night cycle system using Roblox's Lighting service and TweenService.
+-- This script provides a customizable day-night cycle system using Roblox's Lighting service and TweenService
 -- Users can adjust parameters like starting time, cycle duration, and loop behavior through the "config" table.
 -- This script is recomended to be placed inside of your game's "ServerScriptService" folder.
 
