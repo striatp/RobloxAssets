@@ -24,6 +24,6 @@ following conditions:
 By using this Software, you agree to the terms outlined above.
 
    ```lua
-   -- Script Name: [Your Script Name]
-   -- Author: [Your Name or Alias]
+   -- Script Name: [Script Name]
+   -- Author: Striatp
    -- License: See LICENSE file for usage terms.
